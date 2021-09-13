@@ -1,0 +1,26 @@
+_repo: Du-Bose-Heyward-A-Critical-and-Biographical-Sketch_66132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, Hervey
+    birthdate: 1889
+    deathdate: 1949
+    gutenberg_agent_id: '6462'
+    url: http://www.gutenberg.org/2009/agents/6462
+    wikipedia: https://en.wikipedia.org/wiki/Hervey_Allen
+description: ''
+gutenberg_issued: '2021-08-24'
+identifiers:
+  gutenberg: '66132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charleston (S.C.) -- Biography'
+- !lcsh 'Heyward, DuBose, 1885-1940'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- GITenberg
+title: 'Du Bose Heyward: A Critical and Biographical Sketch'
+url: http://www.gutenberg.org/ebooks/66132
